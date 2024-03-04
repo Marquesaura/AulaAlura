@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste Alura</title>
     <link rel="stylesheet" href="style.css">
-    <style> p{ text-align: justify;
-    }
+    <style> p {text-align: justify; }
+    
     </style>
 </head>
 <body>
